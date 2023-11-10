@@ -1,3 +1,7 @@
 DerivedDataCache/
 Intermediate/
 Saved/
+Binaries/
+.vs
+.vsconfig
+.idea
