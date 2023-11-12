@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "BoarEvents",
+	"FriendlyName": "BoarInteraction",
 	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Babyboar",
@@ -16,7 +16,7 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "BoarEvents",
+			"Name": "BoarInteraction",
 			"Type": "Runtime",
 			"LoadingPhase": "PreLoadingScreen"
 		}
